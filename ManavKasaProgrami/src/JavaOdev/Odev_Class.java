@@ -6,7 +6,7 @@ public class Odev_Class {
      */
 
     public static void main(String[] args) {
-        String kelimeler = "Merhaba Patika, ben Erhan.";
+        String kelimeler = "Patika.dev FullStack Java Spring boot & React Bootcamp!";
         System.out.print(kelimeler);
     }
 }
